@@ -26,7 +26,7 @@ stages{
 stage('odd build number')
 {
 steps{
-echo 'the build number is even'
+echo 'the build number is odd'
 script{
 log.info 'starting odd build'
 log.warning 'nothing to do'
