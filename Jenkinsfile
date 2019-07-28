@@ -1,0 +1,1 @@
+evenodd(currentBuild.getNumber())
